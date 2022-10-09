@@ -561,6 +561,7 @@ Hai ${pushname} silahkan dipilih list menu dibawah ini.
   ✎ Deff
   ✎ Yoga
   ✎ Riy
+  ✎ Humanz
   `
   }
 
@@ -580,7 +581,7 @@ Sanksi : *Warn/Soft Block 🚧*
 🤖 : Mohon Bersabar, Mungkin Kendala Dari Jaringan, Signal, Atau Bahkan Terbanned Dari Pihak WhatsApp
 
 👦 : Scriptnya Beli Dimana? 😁
-🤖 : Script Ini Tidak Di Perjualbelikan Karena Script Ini Dibagikan Secara Free. Kalian Bisa Mendapatkannya Di Channel Ryuuka Botz
+🤖 : Script Ini Tidak Di Perjualbelikan Karena Script Ini Dibagikan Secara Free. Kalian Bisa Mendapatkannya Di Akun github Humanz
 
 👦 : Boleh Masukin Ke Grup Saia Tidak? 😁
 🤖 : Untuk Masalah Memasukkan Bot Ke Dalam Grup Bisa Menghubungi Owner
@@ -1223,6 +1224,7 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
   ✎ Deff
   ✎ Yoga
   ✎ Riy
+  ✎ Humanz
   `
   }
   
