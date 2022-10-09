@@ -1,6 +1,6 @@
   {
   "name": "Hinata-Hyuga",
-  "version": "3.1.0",
+  "version": "5.0.0",
   "description": "Whatsapp Bot By Riy",
   "main": "index.js",
   "type": "commonjs",
@@ -19,7 +19,7 @@
   "author": "Riy",
   "license": "MIT",
   "dependencies": {
-  "@adiwajshing/baileys": "github:adiwajshing/Baileys",
+  "@adiwajshing/baileys": "@adiwajshing/baileys@5.0.0",
   "@adiwajshing/keyed-db": "^0.2.4",
   "@bochilteam/scraper": "^2.0.0",
   "awesome-phonenumber": "^2.64.0",
